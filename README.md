@@ -3,7 +3,8 @@ Simple Task Manager with Count Down
 
 ## Scheme
 
-* Master Task
-    * Date Picker
-    * Color
-    * Subtasks
+* Dashboard
+    * Master Task
+        * Date Picker
+        * Color
+        * Subtasks
